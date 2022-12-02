@@ -17,4 +17,4 @@ Used Website : [`GoogleFont`](https://fonts.google.com/) [`Video`](https://pixab
  
 > | Project  | Description |
 > | :---: | :---: |
-> | <b>Admin Dashboard</b>  | [Link](https://nike-store-e-commerce.vercel.app//)  |
+> | <b>Modern Nike Store ECommerce</b>  | [Link](https://nike-store-e-commerce.vercel.app//)  |
